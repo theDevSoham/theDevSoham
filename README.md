@@ -55,7 +55,7 @@
 [<img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" />][facebook]
 [<img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedin]
 [<img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />][instagram]
-[<img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />][linkedin]
+[<img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />][twitter]
 
 <br>
 
@@ -70,11 +70,11 @@
 ## Web Development
 
 <ol style = "font-size: 1.5em">
-    <li><a href=[linkedin]>⌚Clock</a></li>
-    <li><a href=[linkedin]>🎵Music-Player</a></li>
-    <li><a href=[linkedin]>🎈Balloon-Game</a></li>
-    <li><a href=[linkedin]>☁Weather App</a></li>
-    <li><a href=[linkedin]>📝Task Tracker</a></li>
+    <li><a href=[Clock]>⌚Clock</a></li>
+    <li><a href=[Music]>🎵Music-Player</a></li>
+    <li><a href=[Balloon]>🎈Balloon-Game</a></li>
+    <li><a href=[Weather]>☁Weather App</a></li>
+    <li><a href=[Trip]>📝Task Tracker</a></li>
 </ol>
 
 ## Game Development
@@ -88,7 +88,22 @@
 ---
 <!-- Links -->
 
-[linkedin]: (https://www.linkedin.com/in/thedevsoham/)
-[facebook]: (https://www.facebook.com)
+[linkedin]: https://www.linkedin.com/in/thedevsoham/
+
+[facebook]: https://www.facebook.com
 
 [instagram]: https://instagram.com
+
+[twitter]: https://twitter.com/
+
+<!-- Project links -->
+
+[Clock]: https://cocky-lamarr-f2c71e.netlify.app
+
+[Music]: https://festive-swanson-7896f6.netlify.app
+
+[Balloon]: https://confident-austin-853f76.netlify.app
+
+[Weather]: https://wizardly-northcutt-3317ea.netlify.app
+
+[Trip]: https://nostalgic-ardinghelli-214cfb.netlify.app

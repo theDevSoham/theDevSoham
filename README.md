@@ -54,7 +54,7 @@
 
 [<img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" />][facebook]
 [<img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedin]
-[<img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />][linkedin]
+[<img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />][instagram]
 [<img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />][linkedin]
 
 <br>
@@ -90,3 +90,5 @@
 
 [linkedin]: (https://www.linkedin.com/in/thedevsoham/)
 [facebook]: (https://www.facebook.com)
+
+[instagram]: https://instagram.com

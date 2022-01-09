@@ -4,7 +4,6 @@
 ---
 <br>
 
-[linkedin]
 
 <!-- Heading -->
 

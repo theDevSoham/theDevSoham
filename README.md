@@ -69,21 +69,18 @@
 
 ## Web Development
 
-<ol style = "font-size: 1.5em">
-    <li><a href=[Clock]>⌚Clock</a></li>
-    <li><a href=[Music]>🎵Music-Player</a></li>
-    <li><a href=[Balloon]>🎈Balloon-Game</a></li>
-    <li><a href=[Weather]>☁Weather App</a></li>
-    <li><a href=[Trip]>📝Task Tracker</a></li>
-</ol>
+- ⌚[Clock][Clock]
+- 🎵[Music-Player][Music]
+- 🎈[Balloon-Game][Balloon]
+- ☁ [Weather App][Weather]
+- 📝[Trip Planner][Trip]
+- 🎃[Spotify Clone][Spotify]
 
 ## Game Development
 
-<ol style = "font-size: 1.5em">
-    <li><a href=[linkedin]>🎮Endless Runner</a></li>
-    <li><a href=[linkedin]>🎮Project Boost</a></li>
-    <li><a href=[linkedin]>🎮Terminal Hacker</a></li>
-</ol>
+- 🎮 [Endless Runner][Runner]
+- 🎮 [Project Boost][Boost]
+- 🎮 [Terminal Hacker][Hacker]
 
 ---
 <!-- Links -->
@@ -107,3 +104,11 @@
 [Weather]: https://wizardly-northcutt-3317ea.netlify.app
 
 [Trip]: https://nostalgic-ardinghelli-214cfb.netlify.app
+
+[Spotify]: https://mark-42-max.github.io/Spotify_Clone/
+
+[Runner]: https://github.com/Mark-42-max/Endless_Runner
+
+[Boost]: https://github.com/Mark-42-max/Project_Boost_2.0
+
+[Hacker]: https://github.com/Mark-42-max/Terminal_Hacker

@@ -1,5 +1,5 @@
 <!-- Intro -->
-#  Helloo! I'm Soham Das, aka Mark-42-Max. I'm a sophomore 💻 and a Developer from India 
+#  Helloo! I'm Soham Das, aka Mark-42-Max. I'm a Final year student on 💻 and a Developer from India 
 
 ---
 <br>

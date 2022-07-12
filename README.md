@@ -13,7 +13,7 @@
 <!-- UL -->
 <ul style = "font-size: 1.5em">
     <li>🎓I'm learing Web Development</li>
-    <li>💻I learned React recently</li>
+    <li>💻I learned React, node, express and mongo (Full MERN stack) recently</li>
     <li>💡Game Development is a passion</li>
     <li>🔶I develop Games using Unity</li>
     <li>🕹️I'm currently a Game Dev  intern at Resto-G</li>

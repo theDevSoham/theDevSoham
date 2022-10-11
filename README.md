@@ -92,6 +92,10 @@
 
 <br/>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mark-42-max&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
 ---
 <!-- Links -->
 

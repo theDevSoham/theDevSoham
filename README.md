@@ -83,9 +83,13 @@
 - 🎮 [Terminal Hacker][Hacker]
 
 <br/>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mark-42-max&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-42-max&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
 
 ---

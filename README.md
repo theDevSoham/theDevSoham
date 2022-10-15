@@ -16,7 +16,8 @@
     <li>💻I learned React, node, express and mongo (Full MERN stack) recently</li>
     <li>💡Game Development is a passion</li>
     <li>🔶I develop Games using Unity</li>
-    <li>🕹️I'm currently a Game Dev  intern at Resto-G</li>
+    <li>🕹️Ex-game-dev intern at Resto-G</li>
+    <li>🕸 I'm currently a Full Stack Developer intern at Renderbit Technologies</li>
     <li>🎥Fun Fact: I love watching movies and play the Tabla</li>
 </ul>
 

@@ -97,6 +97,10 @@
 
 <br/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mark-42-max&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
 ---
 <!-- Links -->
 

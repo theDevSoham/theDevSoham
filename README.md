@@ -1,4 +1,4 @@
-# ✨ Hi, Soham this side. I'm a passioante Web and Game Developer pursuing my final year B.Tech grad with an IT major.
+# ✨ Hi, Soham this side.
 
 # 💫 About Me:
 🔭 I'm have been working on mobile app/front end development with react native and react for my late internship.<br>👯 I'm looking to collaborate on Game dev projects, Game designs, web development and android app development.<br>🤝 I'm looking for help with learning game development<br>🌱 I'm currently learning making multiplayer games with unity<br>⚡ Fun fact: House of the Dragons is better than Game of thrones.

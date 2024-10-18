@@ -26,6 +26,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=theDevSoham&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 🦡 Holopin badges
+[![An image of @soham673's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soham673)](https://holopin.io/@soham673)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=theDevSoham&icon=0&color=1)](https://visitcount.itsvg.in)
 
